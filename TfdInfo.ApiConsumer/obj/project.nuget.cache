@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "oxv8pqsIPygcgdD8igcoH3NE8KDMVoUmBjHBeaObb6PUL/bjEvpqZCFSWDsUqy5JDT+8TEygXZJB5IeHiQzX8A==",
+  "success": true,
+  "projectFilePath": "/home/jaybeal/Development/Software/TFDAPI/TfdInfo.ApiConsumer/TfdInfo.ApiConsumer.csproj",
+  "expectedPackageFiles": [
+    "/home/jaybeal/.nuget/packages/microsoft.openapi/1.6.15/microsoft.openapi.1.6.15.nupkg.sha512",
+    "/home/jaybeal/.nuget/packages/microsoft.openapi.readers/1.6.15/microsoft.openapi.readers.1.6.15.nupkg.sha512",
+    "/home/jaybeal/.nuget/packages/sharpyaml/2.1.1/sharpyaml.2.1.1.nupkg.sha512",
+    "/home/jaybeal/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.6/microsoft.aspnetcore.app.ref.8.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}
