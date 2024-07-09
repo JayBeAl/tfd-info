@@ -1,0 +1,6 @@
+﻿services:
+  tfdinfo.web:
+    image: tfdinfo.web
+    build:
+      context: .
+      dockerfile: TfdInfo.Web/Dockerfile

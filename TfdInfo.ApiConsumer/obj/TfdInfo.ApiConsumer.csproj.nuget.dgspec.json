@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/home/jaybeal/Development/Software/TFDAPI/TfdInfo.ApiConsumer/TfdInfo.ApiConsumer.csproj": {}
+    "C:\\Users\\denny\\Projects\\TfdInfo.ApiConsumer\\TfdInfo.ApiConsumer.csproj": {}
   },
   "projects": {
-    "/home/jaybeal/Development/Software/TFDAPI/TfdInfo.ApiConsumer/TfdInfo.ApiConsumer.csproj": {
+    "C:\\Users\\denny\\Projects\\TfdInfo.ApiConsumer\\TfdInfo.ApiConsumer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/jaybeal/Development/Software/TFDAPI/TfdInfo.ApiConsumer/TfdInfo.ApiConsumer.csproj",
+        "projectUniqueName": "C:\\Users\\denny\\Projects\\TfdInfo.ApiConsumer\\TfdInfo.ApiConsumer.csproj",
         "projectName": "TfdInfo.ApiConsumer",
-        "projectPath": "/home/jaybeal/Development/Software/TFDAPI/TfdInfo.ApiConsumer/TfdInfo.ApiConsumer.csproj",
-        "packagesPath": "/home/jaybeal/.nuget/packages/",
-        "outputPath": "/home/jaybeal/Development/Software/TFDAPI/TfdInfo.ApiConsumer/obj/",
+        "projectPath": "C:\\Users\\denny\\Projects\\TfdInfo.ApiConsumer\\TfdInfo.ApiConsumer.csproj",
+        "packagesPath": "C:\\Users\\denny\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\denny\\Projects\\TfdInfo.ApiConsumer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/jaybeal/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\denny\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -58,18 +60,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[8.0.6, 8.0.6]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.106/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

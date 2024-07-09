@@ -1,0 +1,13 @@
+C:\Users\denny\Projects\TfdInfo.ApiConsumer\bin\Debug\net8.0\TfdInfo.ApiConsumer.deps.json
+C:\Users\denny\Projects\TfdInfo.ApiConsumer\bin\Debug\net8.0\TfdInfo.ApiConsumer.dll
+C:\Users\denny\Projects\TfdInfo.ApiConsumer\bin\Debug\net8.0\TfdInfo.ApiConsumer.pdb
+C:\Users\denny\Projects\TfdInfo.ApiConsumer\obj\Debug\net8.0\TfdInfo.ApiConsumer.csproj.AssemblyReference.cache
+C:\Users\denny\Projects\TfdInfo.ApiConsumer\obj\Debug\net8.0\TfdInfo.ApiConsumer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\denny\Projects\TfdInfo.ApiConsumer\obj\Debug\net8.0\TfdInfo.ApiConsumer.AssemblyInfoInputs.cache
+C:\Users\denny\Projects\TfdInfo.ApiConsumer\obj\Debug\net8.0\TfdInfo.ApiConsumer.AssemblyInfo.cs
+C:\Users\denny\Projects\TfdInfo.ApiConsumer\obj\Debug\net8.0\TfdInfo.ApiConsumer.csproj.CoreCompileInputs.cache
+C:\Users\denny\Projects\TfdInfo.ApiConsumer\obj\Debug\net8.0\TfdInfo.ApiConsumer.sourcelink.json
+C:\Users\denny\Projects\TfdInfo.ApiConsumer\obj\Debug\net8.0\TfdInfo.ApiConsumer.dll
+C:\Users\denny\Projects\TfdInfo.ApiConsumer\obj\Debug\net8.0\refint\TfdInfo.ApiConsumer.dll
+C:\Users\denny\Projects\TfdInfo.ApiConsumer\obj\Debug\net8.0\TfdInfo.ApiConsumer.pdb
+C:\Users\denny\Projects\TfdInfo.ApiConsumer\obj\Debug\net8.0\ref\TfdInfo.ApiConsumer.dll

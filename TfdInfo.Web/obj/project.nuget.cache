@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "W21uH2jsu+JApoWPFkJ1H2givlsefGJveyiea8iWKqbWJwQRrCP3AsMMRghl3JLyZChMy0tquXUVXWfjZ5W7JQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\denny\\Projects\\TfdInfo.Web\\TfdInfo.Web.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\denny\\.nuget\\packages\\microsoft.openapi\\1.6.15\\microsoft.openapi.1.6.15.nupkg.sha512",
+    "C:\\Users\\denny\\.nuget\\packages\\microsoft.openapi.readers\\1.6.15\\microsoft.openapi.readers.1.6.15.nupkg.sha512",
+    "C:\\Users\\denny\\.nuget\\packages\\sharpyaml\\2.1.1\\sharpyaml.2.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}

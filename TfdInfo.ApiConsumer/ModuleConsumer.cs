@@ -1,4 +1,8 @@
-﻿namespace TfdInfo.ApiConsumer;
+﻿using Microsoft.OpenApi;
+using Microsoft.OpenApi.Extensions;
+using Microsoft.OpenApi.Readers;
+
+namespace TfdInfo.ApiConsumer;
 
 public class ModuleConsumer : IModuleConsumer
 {
@@ -10,18 +14,13 @@ public class ModuleConsumer : IModuleConsumer
     {
         _httpClient = new HttpClient
         {
-            BaseAddress = new Uri(_basePath);
-        }
+            BaseAddress = new Uri(_basePath)
+        };
     }
 
-    public void RequestMetaData()
+    public async Task RequestMetaData()
     {
-        var stream = await _httpClient.GetStreamAsync(_moduleApiPath);
-
-        // Read V3 as YAML
-        var openApiDocument = new OpenApiStreamReader().Read(stream, out var diagnostic);
-
-        // Write V2 as JSON
-        var outputString = openApiDocument.Serialize(OpenApiSpecVersion.OpenApi2_0, OpenApiFormat.Json);
+        var response = await _httpClient.GetAsync(_moduleApiPath);
+        var contents = await response.Content.ReadAsStringAsync();
     }
 }
